@@ -2,11 +2,12 @@
 Edit the input.txt file in the src folder  
 Format example:  
 ```
-OOOOXOOOOOOOOOO  
-OOOOXOOOOOOOOOO  
-OOOOXXXXXOOOOOO  
-OOOOOOOOOOOOOOO  
-OOOOOOOOOOOOOOO  
-```
+XXXXXOXXXXXXXX  
+XXXXXOXXXXXXXX  
+XXXXXOXXXXXXXX  
+XXXXXOOOOOXXXX  
+XXXXXXXXXXXXXX  
+```  
+(X: Dead cell, O: Alive cell)  
 # License
 mit
